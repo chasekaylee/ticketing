@@ -3,7 +3,7 @@ interface Ticket {
   artist: string;
 }
 const ticket: Ticket = {
-  id: 12345,
+  id: 123456,
   artist: 'Flume',
 };
 
